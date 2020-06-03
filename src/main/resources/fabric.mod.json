@@ -7,7 +7,7 @@
   "authors": [
     "SuperCoder79"
   ],
-  "license": "CC0-1.0",
+  "license": "LGPLv3",
   "icon": "assets/worldgentweaker/icon.png",
   "environment": "*",
   "entrypoints": {
