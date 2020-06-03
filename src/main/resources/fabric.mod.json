@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "worldgentweaker",
+  "version": "0.1.0",
+  "name": "World Gen Tweaker",
+  "description": "Allows you to tweak world gen to your heart's content!",
+  "authors": [
+    "SuperCoder79"
+  ],
+  "license": "CC0-1.0",
+  "icon": "assets/worldgentweaker/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "supercoder79.worldgentweaker.Worldgentweaker"
+    ]
+  },
+  "mixins": [
+    "worldgentweaker.mixins.json"
+  ],
+  "accessWidener" : "worldgentweaker.aw",
+  "depends": {
+    "fabricloader": ">=0.8.5+build.199",
+    "fabric": "*",
+    "minecraft": ">=1.16-"
+  }
+}

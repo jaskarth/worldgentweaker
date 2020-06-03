@@ -1,0 +1,9 @@
+// Makes both rivers deeper.
+
+tweak biome minecraft:river
+apply depth -0.8
+end
+
+tweak biome minecraft:frozen_river
+apply depth -0.8
+end

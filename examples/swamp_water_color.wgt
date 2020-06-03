@@ -1,0 +1,11 @@
+// Turns the swamp water color to be the same as every other biome.
+
+tweak biome minecraft:swamp
+apply watercolor #3F76E4
+apply waterfogcolor #050533
+end
+
+tweak biome minecraft:swamp_hills
+apply watercolor #3F76E4
+apply waterfogcolor #050533
+end

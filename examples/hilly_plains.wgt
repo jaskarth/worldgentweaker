@@ -1,0 +1,5 @@
+// Makes plains hillier.
+
+tweak biome minecraft:plains
+apply scale 0.3
+end
